@@ -1,0 +1,55 @@
+==================================================================
+https://keybase.io/jakeprem
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of http://jakeprem.com
+  * I am jakeprem (https://keybase.io/jakeprem) on keybase.
+  * I have a public key ASAvBeTDrtoCVK037p_9ncBwMJzu2_tUXNqAjJFAYpnK3Qo
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "01209336db5d309b85220ae4b0db301c3ea036c142db30c00cdeb7dd18f4223be9e50a",
+      "host": "keybase.io",
+      "kid": "01202f05e4c3aeda0254ad37ee9ffd9dc070309ceedbfb545cda808c91406299cadd0a",
+      "uid": "1fc46f84a203ec2c8f9e18b8c5ad6a19",
+      "username": "jakeprem"
+    },
+    "merkle_root": {
+      "ctime": 1507156059,
+      "hash": "22e8ff55c3c8990a43c2709463ce0dde05df1223dfbe2429cf3f7e2a63169b7230aaa5957025e5cc87e429a51f760f7fcb61475db2353a3dbcff61c4f9b01a54",
+      "hash_meta": "15d8a1e18873c070e387be3bc36fe5331c331523b5c0e632fe45ed260494cb63",
+      "seqno": 1502017
+    },
+    "service": {
+      "hostname": "jakeprem.com",
+      "protocol": "http:"
+    },
+    "type": "web_service_binding",
+    "version": 1
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "1.0.33"
+  },
+  "ctime": 1507156075,
+  "expire_in": 504576000,
+  "prev": "515451487c1783f4354afcb02519f406238c9b610385abe8f94f32f252e4152f",
+  "seqno": 16,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgLwXkw67aAlStN+6f/Z3AcDCc7tv7VFzagIyRQGKZyt0Kp3BheWxvYWTFA0R7ImJvZHkiOnsia2V5Ijp7ImVsZGVzdF9raWQiOiIwMTIwOTMzNmRiNWQzMDliODUyMjBhZTRiMGRiMzAxYzNlYTAzNmMxNDJkYjMwYzAwY2RlYjdkZDE4ZjQyMjNiZTllNTBhIiwiaG9zdCI6ImtleWJhc2UuaW8iLCJraWQiOiIwMTIwMmYwNWU0YzNhZWRhMDI1NGFkMzdlZTlmZmQ5ZGMwNzAzMDljZWVkYmZiNTQ1Y2RhODA4YzkxNDA2Mjk5Y2FkZDBhIiwidWlkIjoiMWZjNDZmODRhMjAzZWMyYzhmOWUxOGI4YzVhZDZhMTkiLCJ1c2VybmFtZSI6Impha2VwcmVtIn0sIm1lcmtsZV9yb290Ijp7ImN0aW1lIjoxNTA3MTU2MDU5LCJoYXNoIjoiMjJlOGZmNTVjM2M4OTkwYTQzYzI3MDk0NjNjZTBkZGUwNWRmMTIyM2RmYmUyNDI5Y2YzZjdlMmE2MzE2OWI3MjMwYWFhNTk1NzAyNWU1Y2M4N2U0MjlhNTFmNzYwZjdmY2I2MTQ3NWRiMjM1M2EzZGJjZmY2MWM0ZjliMDFhNTQiLCJoYXNoX21ldGEiOiIxNWQ4YTFlMTg4NzNjMDcwZTM4N2JlM2JjMzZmZTUzMzFjMzMxNTIzYjVjMGU2MzJmZTQ1ZWQyNjA0OTRjYjYzIiwic2Vxbm8iOjE1MDIwMTd9LCJzZXJ2aWNlIjp7Imhvc3RuYW1lIjoiamFrZXByZW0uY29tIiwicHJvdG9jb2wiOiJodHRwOiJ9LCJ0eXBlIjoid2ViX3NlcnZpY2VfYmluZGluZyIsInZlcnNpb24iOjF9LCJjbGllbnQiOnsibmFtZSI6ImtleWJhc2UuaW8gZ28gY2xpZW50IiwidmVyc2lvbiI6IjEuMC4zMyJ9LCJjdGltZSI6MTUwNzE1NjA3NSwiZXhwaXJlX2luIjo1MDQ1NzYwMDAsInByZXYiOiI1MTU0NTE0ODdjMTc4M2Y0MzU0YWZjYjAyNTE5ZjQwNjIzOGM5YjYxMDM4NWFiZThmOTRmMzJmMjUyZTQxNTJmIiwic2Vxbm8iOjE2LCJ0YWciOiJzaWduYXR1cmUifaNzaWfEQMgmmyhLqW/Y1/f37vx3vwast2aMV4Hcpp0kZ//fYy28YhVzSnzi9e6lwZQT//j31BnGOgNBvC1BoA1+S8uuXgOoc2lnX3R5cGUgpGhhc2iCpHR5cGUIpXZhbHVlxCD+IH40GOpf+sW07FVFH7uqWCwu1TT6GcWGYFGBAuJC5qN0YWfNAgKndmVyc2lvbgE=
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/jakeprem
+
+==================================================================
